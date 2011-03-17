@@ -21,6 +21,10 @@ This is an extension of Dist::Zilla::Plugin::InlineFiles, providing the followin
 
     xt/release/common_spelling.t - a standard Pod::Spell::CommonMistakes test
 
+=head1 SEE ALSO
+Pod::Spell::CommonMistakes
+Test::Pod::Spelling::CommonMistakes
+
 =cut
 
 

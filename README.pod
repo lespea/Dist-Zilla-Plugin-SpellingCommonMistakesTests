@@ -22,6 +22,22 @@ This is an extension of Dist::Zilla::Plugin::InlineFiles, providing the followin
 
 =encoding utf8
 
+=head1 SEE ALSO
+
+Please see those modules/websites for more information related to this module.
+
+=over 4
+
+=item *
+
+L<Pod::Spell::CommonMistakes|Pod::Spell::CommonMistakes>
+
+=item *
+
+L<Test::Pod::Spelling::CommonMistakes|Test::Pod::Spelling::CommonMistakes>
+
+=back
+
 =head1 INSTALLATION
 
 See perlmodinstall for information and options on installing Perl modules.
