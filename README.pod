@@ -6,13 +6,13 @@ Dist::Zilla::Plugin::SpellingCommonMistakesTests - Release tests for common POD 
 
 =head1 VERSION
 
-version 1.000000
+version 1.000001
 
 =head1 SYNOPSIS
 
 In your dist.ini file:
 
-    [PodSpellingTests]
+    [SpellingCommonMistakesTests]
 
 =head1 DESCRIPTION
 

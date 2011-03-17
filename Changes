@@ -1,6 +1,9 @@
 Revision history for Dist-Zilla-Plugin-SpellingCommonMistakesTests
 
 {{$NEXT}}
+    [BugFix]
+    *   Correct dist.ini name in the synopsis
+
 
 1.000000  2011-03-17 06:01:42 America/Chicago
     *   Initial version

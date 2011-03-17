@@ -12,7 +12,7 @@ package Dist::Zilla::Plugin::SpellingCommonMistakesTests;
 
 In your dist.ini file:
 
-    [PodSpellingTests]
+    [SpellingCommonMistakesTests]
 
 
 =head1 DESCRIPTION
