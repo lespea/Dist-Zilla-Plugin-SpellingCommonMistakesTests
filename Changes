@@ -1,6 +1,8 @@
 Revision history for Dist-Zilla-Plugin-SpellingCommonMistakesTests
 
 {{$NEXT}}
+    [Enhancement]
+    *   Add Test::Pod::Spelling::CommonMistakes as a prereq
 
 1.000001  2011-03-17 06:12:34 America/Chicago
     [BugFix]

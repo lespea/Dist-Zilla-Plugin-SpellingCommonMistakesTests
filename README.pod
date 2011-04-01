@@ -6,7 +6,7 @@ Dist::Zilla::Plugin::SpellingCommonMistakesTests - Release tests for common POD 
 
 =head1 VERSION
 
-version 1.000001
+version 1.001000
 
 =head1 SYNOPSIS
 
